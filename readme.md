@@ -8,6 +8,7 @@
 - Using MVP framework
 - Connecting and Using MongoDB using Mongoose ORM with ExpressJS
 - Using EJS for for rendering html on server
+- Using tel-links
 
 # Technology Used
 -  MongoDB  
